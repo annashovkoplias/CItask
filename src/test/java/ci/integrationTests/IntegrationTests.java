@@ -6,9 +6,6 @@ import ci.core.BaseSteps;
 import ci.core.Configuration;
 import ci.pages.SearchPage;
 
-/**
- * Created by kirde on 18.07.2016.
- */
 public class IntegrationTests {
 
     @Test

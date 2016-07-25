@@ -6,9 +6,6 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
 
-/**
- * Created by Kyrylo_Delehoidin on 2/4/2016.
- */
 public class Configuration {
 
   public static final String PROPERTIES_FILE = "src/main/resources/properties/config.properties";

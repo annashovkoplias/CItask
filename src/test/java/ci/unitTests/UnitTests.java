@@ -5,9 +5,6 @@ import org.junit.Test;
 import ci.core.BaseSteps;
 import ci.core.Configuration;
 
-/**
- * Created by kirde on 18.07.2016.
- */
 public class UnitTests {
 
     @Test

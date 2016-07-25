@@ -9,9 +9,6 @@ import org.jbehave.core.annotations.When;
 
 import ci.core.BaseSteps;
 
-/**
- * Created by Kyrylo_Delehoidin on 2/1/2016.
- */
 public class UITests extends BaseSteps {
 
     private SearchPage searchPage;

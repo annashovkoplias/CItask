@@ -8,9 +8,6 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 import java.util.concurrent.TimeUnit;
 
-/**
- * Created by Kyrylo_Delehoidin on 2/3/2016.
- */
 public class BaseSteps extends Steps {
 
     public WebDriver driver;
